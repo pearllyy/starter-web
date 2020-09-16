@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Julie Pearl Diaz	pearl@git.training	@pearl
 
 # THANKS
 
